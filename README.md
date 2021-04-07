@@ -1,5 +1,5 @@
 # winequality
-Supervised Learning Capstone - Wine Quality Data Set
+Supervised Learning Capstone - Wine Quality Data Set.
 
 Determined Wine Features Related to Quality.
 
